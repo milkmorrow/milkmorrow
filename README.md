@@ -1,4 +1,4 @@
-### Hii, I'm oornuu!
+### Hii, I'm ournuu!
 
 🧪 I'm a university student who enjoys creating games and tools.
 
