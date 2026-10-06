@@ -2,6 +2,6 @@
 
 🧪 I'm a university student who enjoys creating games and tools
 
-🎮 Making games with [Haxe](https://haxe.org/) and [Heaps.io](https://heaps.io/)
+🎮 Building my own game framework with [SDL3](https://www.libsdl.org) and [Flecs](https://www.flecs.dev/flecs)
 
-[![count](https://count.getloli.com/get/@ournuu?theme=booru-the-collection&darkmode=0)](https://count.getloli.com)
+[![count](https://count.getloli.com/@ournuu?theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto)](https://count.getloli.com)
